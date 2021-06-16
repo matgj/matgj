@@ -8,7 +8,7 @@
 - 👨‍💻 Some of my public projects are available on [Product Hunt](https://www.producthunt.com/@mathis_grosjean1/made)
 
 - 🌱 I’m currently learning React and Firebase by doing projects
--
+
 - 👯 I’m looking to collaborate on [Hack Money Hackathon](https://hackathon.money/)
 
 - 📫 Reach me @ mathis.grosjean.42@gmail.com
