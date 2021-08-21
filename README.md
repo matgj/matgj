@@ -5,10 +5,10 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/grosjean-mathis/)
 
-- 👨‍💻 Some of my public projects are available on [Product Hunt](https://www.producthunt.com/@mathis_grosjean1/made)
+- 👨‍💻 Some of my private repositories are products available on [Product Hunt](https://www.producthunt.com/@mathis_grosjean1/made)
 
 - 🌱 I’m currently learning Solidity by doing projects
 
-- 👯 I’m looking to collaborate on crypto projects
+- 👯 I’m looking to collaborate on web3 projects
 
 - 📫 Reach me @ mathis.grosjean.42@gmail.com
