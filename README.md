@@ -4,4 +4,4 @@
 
 🤝 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/grosjean-mathis/)
 
-👨‍💻 Some of my private repositories are products available on [Product Hunt](https://www.producthunt.com/@mathis_grosjean1/made)
+👨‍💻 Some of my private repositories are products available on [Product Hunt](https://www.producthunt.com/@mathis_grosjean1/)
